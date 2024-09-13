@@ -12,3 +12,7 @@ This repository aim to check wether the interface used by hospital are returning
 - In the terminal, you will see whether:
     - that everything went according to plan.
     - that there are missing fields for all specific resources.
+
+- In order to make it work as expected, please change as you go the id of the different resources that are created.
+To do so, do not hesitate to add progressively the different json as you go.
+Take as stated before extra caution with the order you input the examples as some example rely on previously input data.
